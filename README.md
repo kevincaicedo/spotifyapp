@@ -3,7 +3,7 @@
 Spotify API consuming app Example
 
 ## App Example
-![Alt text](https://raw.githubusercontent.com/kevincaicedo/spotifyapp/master/screenshots/app.gif "Title")
+![Alt text](https://raw.githubusercontent.com/kevincaicedo/spotifyapp/master/screenshots/appscreen.gif "Title")
 
 
 ## Getting Started
